@@ -1,0 +1,1 @@
+from Tugas_Package import Class, Method_Parameter, Polymorphism, Abstractmethod, Interfaces
